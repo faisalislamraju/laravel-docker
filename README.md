@@ -21,4 +21,4 @@ Get access to the containers bash with testuser
 docker exec -ti -u testuser laravel-docker_app_1 bash
 ```
 
-To get details explanation on how to setup/create your own Laravel project on Docker you can read this [article on medium]()
+To get details explanation on how to setup/create your own Laravel project on Docker you can read this [article on medium](https://medium.com/monstar-lab-bangladesh-engineering/boot-a-laravel-project-on-docker-72501d3487e1)
